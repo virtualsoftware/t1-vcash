@@ -8,6 +8,6 @@ namespace t1_vcash
     public class Class_teste
     {
 
-        ///// realizada feature cury
+        ///// realizada feature cury tive que incluir algo aqui
     }
 }
