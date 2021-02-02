@@ -1,5 +1,6 @@
 # t1-vcash
-V0.0.0
+V0.0.1
+
 teste 1 do sistema de tesouraria
 
 teste feito para seguir o forkflow git conforme 
