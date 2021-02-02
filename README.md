@@ -1,5 +1,5 @@
 # t1-vcash
-Repo=feature/descricao
+V0.0.0
 teste 1 do sistema de tesouraria
 
 teste feito para seguir o forkflow git conforme 
