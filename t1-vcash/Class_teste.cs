@@ -8,6 +8,11 @@ namespace t1_vcash
     public class Class_teste
     {
 
-        /////
+        ///// 
+    }
+
+    public class Class_teste2
+    {
+        // segunda feature cury 2
     }
 }
