@@ -8,7 +8,7 @@ namespace t1_vcash
     public class Class_teste
     {
 
-        ///// 
+        ///// realizada feature cury tive que incluir algo aqui
     }
 
     public class Class_teste2
