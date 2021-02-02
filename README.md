@@ -1,5 +1,5 @@
-# t1-vcash
 V0.0.2
+>>>>>>> feature-teste-cury
 
 teste 1 do sistema de tesouraria
 
