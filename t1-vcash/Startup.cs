@@ -15,7 +15,7 @@ namespace t1_vcash
 {
     public class Startup
     {
-        public Startu(IConfiguration configuration) //tirei o u pra não compilar
+        public Startup(IConfiguration configuration) //tirei o u pra não compilar
         {
             Configuration = configuration;
         }
